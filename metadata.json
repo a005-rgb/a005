@@ -1,0 +1,6 @@
+{
+  "name": "minseok — AI 개발자 포트폴리오",
+  "description": "일상 속 불편을 AI로 해결하는 minseok의 반응형 포트폴리오 웹사이트입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
